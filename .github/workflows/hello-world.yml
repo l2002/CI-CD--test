@@ -31,4 +31,4 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
       - name: Run Python
-        run: python main.py
+        run: main.py
